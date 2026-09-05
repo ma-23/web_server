@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1788189908906,
+      "tag": "0000_broad_mongoose",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1788277850552,
+      "tag": "0001_special_the_hunter",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1788280915021,
+      "tag": "0002_swift_starbolt",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1788356780152,
+      "tag": "0003_legal_beyonder",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1788535484756,
+      "tag": "0004_wet_corsair",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1788629314101,
+      "tag": "0005_wild_living_mummy",
+      "breakpoints": true
+    }
+  ]
+}
